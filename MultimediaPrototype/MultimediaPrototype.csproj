@@ -109,7 +109,20 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="default.css" />
+    <Content Include="Index.html" />
+    <Content Include="Media\CastleOfGlassCover.jpg" />
     <Content Include="Media\hololens.mp4" />
+    <Content Include="Media\HoloLensExplodedView.mp4" />
+    <Content Include="Media\HoloLensHeadBand.mp4" />
+    <Content Include="Media\HoloLensKit.jpg" />
+    <Content Include="Media\HoloLensSideView.mp4" />
+    <Content Include="Media\HoloLensTopView.mp4" />
+    <Content Include="Media\Linkin Park - Castle Of Glass %28lyrics%29.mp3" />
+    <Content Include="Media\Musics.jpg" />
+    <Content Include="Media\One Call Away.mp3" />
+    <Content Include="Media\OneCallAwayCover.jpg" />
+    <Content Include="Media\Videos.jpg" />
+    <Content Include="MusicsPage.html" />
     <Content Include="Scripts\default.js" />
     <Content Include="Media\hololens.ogg" />
     <Content Include="Media\hololens.webm" />
@@ -119,6 +132,7 @@
     <Content Include="Scripts\jquery-3.1.1.slim.js" />
     <Content Include="Scripts\jquery-3.1.1.slim.min.js" />
     <Content Include="VideoPage.html" />
+    <Content Include="VideosPage.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
