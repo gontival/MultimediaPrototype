@@ -1,0 +1,20 @@
+﻿body {
+    background-color: #FFFFCC;
+}
+
+#container {
+    background-color: #99CCFF;
+    border: groove;
+    width: 900px;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 20px;
+}
+
+#media {
+    width: 80%;
+    height: 80%;
+}
+
